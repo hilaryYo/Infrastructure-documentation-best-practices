@@ -9,7 +9,11 @@ This is a catch-all for hints, tips and must-haves for infrastructure documentat
         Servers
         Switches
         Computers
-    All vendor contacts
+    Vendor information
+        contact info
+        training 
+        data vetting
+        contractual agreements
     Operating systems
     IP Addresses – including reserved and excluded IPs
     Credentials for all infrastructure-related sites, including Domain Name and DNS providers, as well as expiry dates
