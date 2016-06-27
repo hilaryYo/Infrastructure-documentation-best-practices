@@ -3,12 +3,13 @@ This is a catch-all for hints, tips and must-haves for infrastructure documentat
 
 
     Network schematics
-    All administrative usernames and passwords for all devices, including:
+    All administrative usernames for all devices, including:
         Routers
         Printers
         Servers
         Switches
         Computers
+    Permissions for all users
     Vendor information
         contact info
         training 
@@ -20,3 +21,4 @@ This is a catch-all for hints, tips and must-haves for infrastructure documentat
     All licensing
         Custom 3rd party applications and configurations
         Tools used to monitor systems.
+        
