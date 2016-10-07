@@ -21,4 +21,5 @@ This is a catch-all for hints, tips and must-haves for infrastructure documentat
     All licensing
         Custom 3rd party applications and configurations
         Tools used to monitor systems.
-      Define the difference between runbook and playbook in an organizaion. Some orgs use them interchangably, some use them as either, keeping everything up and running = playbook and step by step housekeeping and procedures = playbooks.  
+      Define the difference between runbook and playbook
+     Some orgs use them interchangably, some use them as either, keeping everything up and running = playbook and step by step housekeeping and procedures = playbooks.  
